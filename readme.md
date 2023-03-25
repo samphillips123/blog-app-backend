@@ -14,13 +14,3 @@ Based on Today's Lesson you must:
 -------
 
 
-
-
-
--------
-## Resources to Learn More
-
--------
-
-
-
