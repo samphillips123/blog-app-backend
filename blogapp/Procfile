@@ -1,1 +1,1 @@
-web: gunicorn blogapp.wsgi
+web: gunicorn hw24_Blog_App_API.wsgi
